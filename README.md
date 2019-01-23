@@ -23,4 +23,5 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
+
 Installing and learning how to use cocoa pods required me to look at some other online sources. The syntax also required a lot of thought as we haven't learned all of it yet.
